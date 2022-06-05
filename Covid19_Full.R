@@ -72,4 +72,8 @@ predict(confirmed.lm, newdata, interval="predict")
 
 # test commit 1
 
+
 # comment 2
+
+
+# branch 1
