@@ -68,3 +68,6 @@ predict(confirmed.lm, newdata, interval="predict")
   #geom_smooth()
 
 # leave it alone
+
+
+# test commit 1
